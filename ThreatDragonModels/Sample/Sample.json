@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Sample",
+    "owner": "Karthik",
+    "description": "This is a test threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Karthik"
+  }
+}
